@@ -39,31 +39,31 @@ Descarga una copia exacta del repositorio remoto a tu ordenador en el directorio
 
 Te dice el estado actual de tu proyecto (si hay archivos nuevos, modificados o listos para guardar).
 
-![Evidencia git status](Imagenes\2.png)
+![Evidencia git status](Imagenes/2.png)
 
 ### git add [nombre-archivo]
 
 Añade los cambios al staging para que Git sepa que quieres incluirlos en la próxima versión local (normalmente utilizo “.” para añadir todos los archivos al stage).
 
-![Evidencia git add](Imagenes\3.png)
+![Evidencia git add](Imagenes/3.png)
 
 ### git commit -m "mensaje"
 
 Guarda permanentemente los cambios que añadiste con add en el historial local de tu ordenador.
 
-![Evidencia git commit](Imagenes\4.png)
+![Evidencia git commit](Imagenes/4.png)
 
 ### git push
 
 Sube tus commits locales a tu repositorio en la nube (GitHub) (en la rama en la que se está trabajando).
 
-![Evidencia git push](Imagenes\5.png)
+![Evidencia git push](Imagenes/5.png)
 
 ### git checkout
 
 Se usa para cambiar entre ramas (o crearlas si no existen).
 
-![Evidencia git checkout](Imagenes\6.png)
+![Evidencia git checkout](Imagenes/6.png)
 
 ## entorno.pdf
 
@@ -71,15 +71,15 @@ Se usa para cambiar entre ramas (o crearlas si no existen).
 
 Se muestra evidencia de la instalación del editor y su funcionamiento en el terminal.
 
-![Evidencia de la instalación de IntelliJ](Imagenes\7.png)
+![Evidencia de la instalación de IntelliJ](Imagenes/7.png)
 
-![Evidencia funcionamiento IntelliJ](Imagenes\8.png)
+![Evidencia funcionamiento IntelliJ](Imagenes/8.png)
 
 ### Versión de Java (23)
 
 Al ya tener instalada la versión requerida de Java, se adjunta solo una captura de la salida por terminal de la versión.
 
-![Evidencia version de java](Imagenes\9.png)
+![Evidencia version de java](Imagenes/9.png)
 
 ### Instalación de Maven
 
