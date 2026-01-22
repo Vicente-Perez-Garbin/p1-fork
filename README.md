@@ -90,3 +90,13 @@ No se necesita
 [git.pdf](git.pdf)
 
 [entorno.pdf](entorno.pdf)
+
+## Información adicional
+
+Para subir al master el documento git.pdf (requerido en la práctica) he creado durante el proceso una rama nueva y lo he añadido allí. Después de subir al staging (con git add) y el commit, hice el git push. Como estaba en una rama distinta, al subirlo a GitHub, se publicó esa rama nueva y no se cambió nada en el main todavía.
+
+Para que los cambios aparezcan por fin en la rama main de mi repositorio, he tenido que hacer una Pull Request. Al ser un  *fork* , GitHub te da la opción de enviarle tus cambios al dueño original del proyecto (que es la base del código abierto para colaborar en proyectos de otros), pero en este caso, como es mi práctica, he hecho la PR hacia el main de  **mi propio repositorio** . Así ya tengo todo unificado y listo para la entrega.
+
+![Evidencia PR 1](Imagenes/10.png)
+
+![Evidencia PR 2](Imagenes/11.png)
