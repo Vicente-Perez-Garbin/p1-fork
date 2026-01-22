@@ -33,7 +33,7 @@ En esta sección del readme se muestra el contenido entregado en los pdf's y se 
 
 Descarga una copia exacta del repositorio remoto a tu ordenador en el directorio desde el que se inicialice el terminal.
 
-![Evidencia git clone](Imagenes\1.png)
+![Evidencia git clone](Imagenes/1.png)
 
 ### git status
 
